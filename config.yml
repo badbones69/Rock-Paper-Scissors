@@ -1,0 +1,12 @@
+Settings:
+  Prefix: '&8[&a&lRPS&8]: '
+  InventoryName: '&8&lRPS &3&l- &d&lMini Game'
+  WinningReward:
+    - 'give %Player% diamond 1'
+  Cost: 40
+  NeedMoneyMessage: '&cThat game costs $40 to play.'
+Players:
+  Computer:
+    Wins: 0
+    Losses: 0
+    Draws: 0

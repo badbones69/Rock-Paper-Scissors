@@ -1,0 +1,10 @@
+name: RockPaperScissors
+main: me.BadBones69.RPS.Main
+version: 1.3
+description: >
+             Rock Paper Scissors Mini-Game
+commands:
+  RPS:
+    description: Play a Rock Paper Scissors Game.
+  RockPaperScissors:
+    description: Play a Rock Paper Scissors Game.
